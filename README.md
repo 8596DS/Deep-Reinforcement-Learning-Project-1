@@ -4,7 +4,7 @@ This project repository is my implementation for Project 1: Navigation for the U
 
 ## Project's Description 
 For this project we have to train an agent to navigate a large square world and collect yellow bananas. The world contains both yellow and blue banana as depicted in the animated gif below.
-![In Project 1, train an agent to navigate a large world.](images/banana.gif)
+![In Project 1, train an agent to navigate a large world.](banana.gif)
 
 ### Rewards:
 1. The agent is given a reward of +1 for collecting a yellow banana
